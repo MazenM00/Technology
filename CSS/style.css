@@ -1,0 +1,19 @@
+.Input1{
+margin-left: 32px;
+}
+.Input2{
+margin-left: 24px;
+}
+.Btn_F{
+margin-left: 250px;
+background-color: rgb(80, 80, 220);
+border: none;
+border-radius: 25px;
+color: white;
+font-size: 15px;
+}
+.Btn_F:hover{
+
+background-color: white;
+color: black;
+}
